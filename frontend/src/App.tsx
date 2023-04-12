@@ -1,5 +1,6 @@
 import { gql, useQuery } from "@apollo/client";
 import { NewUserForm } from "./components/NewUserForm";
+import React from "react";
 
 type User = {
 	id: String;
