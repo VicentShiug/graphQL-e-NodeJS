@@ -1,2 +1,2 @@
 # graphQL e NodeJS
-Feito apenas no intuido de praticar e conhecer novas tecnológias
+Feito apenas no intuito de praticar e conhecer novas tecnologias
